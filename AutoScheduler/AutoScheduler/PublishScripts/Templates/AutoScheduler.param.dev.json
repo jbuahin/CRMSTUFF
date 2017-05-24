@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "CRMAutoScheduler"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "ffa540f3-60da-4cb4-8d33-db5fbebe4f64"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-WestUS"
+  }
+}

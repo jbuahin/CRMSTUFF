@@ -1,0 +1,152 @@
+﻿@model AutoScheduler.Models.JobViewModel
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using AutoScheduler.Utilities
+
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Job</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.id)
+        <div class="form-group">
+            @Html.LabelFor(model => model.jobName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.jobName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.jobName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.connectionId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.connectionId, new SelectList(Model.connections, "Id", "Name", Model.connectionId),
+               "-- Select --")
+                @Html.ValidationMessageFor(model => model.connectionId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.objectTypeCode, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.CascadingDropDownListFor(
+                 m => m.objectTypeCode,
+                 "connectionId",
+                 Url.Action("GetCRMEntities", "CRMConnections"),
+                 "id",
+                 "Please select an Entity",
+                 true,
+                 new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.objectTypeCode, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.workflowName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.CascadingDropDownListFor(
+                model => model.workflowName,
+                "objectTypeCode,connectionId",
+                Url.Action("GetCRMWorkflows", "CRMConnections"),
+                "entityName,id",
+                "Please select a workflow",
+                true,
+                new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.workflowName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.fetchXml, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.CascadingDropDownListFor(
+                model => model.fetchXml,
+                "objectTypeCode,connectionId",
+                Url.Action("GetCRMViews", "CRMConnections"),
+                "objectTypeCode,id",
+                "Please select a view",
+                true,
+                new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.fetchXml, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.cron, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.cron, new SelectList(new[]
+                {
+                    new { ID = "0 0 * * *", Name = "Daily" },
+                    new { ID = "0 0 * * 1", Name = "Weekly" },
+                    new { ID = "0 0 1 * *", Name = "Monthly" },
+                },
+                "ID", "Name", "0 0 * * *"))
+                @Html.ValidationMessageFor(model => model.cron, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.daysBetween, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.daysBetween, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.daysBetween, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.startHour, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.startHour, new SelectList(new[]
+                {
+                    new { ID = 0, Name = "12 AM" },
+                    new { ID = 1, Name = "1 AM" },
+                    new { ID = 2, Name = "2 AM" },
+                    new { ID = 3, Name = "3 AM" },
+                    new { ID = 4, Name = "4 AM" },
+                    new { ID = 5, Name = "5 AM" },
+                    new { ID = 6, Name = "6 AM" },
+                    new { ID = 7, Name = "7 AM" },
+                    new { ID = 8, Name = "8 AM" },
+                    new { ID = 8, Name = "9 AM" },
+                    new { ID = 10, Name = "10 AM" },
+                    new { ID = 11, Name = "11 AM" },
+                    new { ID = 12, Name = "12 PM" },
+                    new { ID = 13, Name = "1 PM" },
+                    new { ID = 14, Name = "2 PM" },
+                    new { ID = 15, Name = "3 PM" },
+                    new { ID = 16, Name = "4 PM" },
+                    new { ID = 17, Name = "5 PM" },
+                    new { ID = 18, Name = "6 PM" },
+                    new { ID = 19, Name = "7 PM" },
+                    new { ID = 20, Name = "8 PM" },
+                    new { ID = 21, Name = "9 PM" },
+                    new { ID = 22, Name = "10 PM" },
+                    new { ID = 23, Name = "11 PM" },
+                },
+                "ID", "Name", 0))
+                @Html.ValidationMessageFor(model => model.startHour, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.enabled, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            &nbsp&nbsp @Html.CheckBoxFor(model => model.enabled, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.enabled, "", new { @class = "text-danger" })
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

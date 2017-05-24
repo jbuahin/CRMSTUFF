@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="breadcrumb-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Create User Role</h2>
+            </div>
+        </div>
+    </div>
+</div><!--breadcrumbs-->
+<div class="row">
+    <div class="col-md-12 margin10">
+        @Html.ActionLink("List Roles", "Index") | @Html.ActionLink("Manage User Role", "ManageUserRoles")
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+
+            <div>
+                Role name
+            </div>
+            <p>
+                @Html.TextBox("RoleName")
+            </p>
+    <input type="submit" value="Save" class="btn btn-theme-bg btn-lg" />
+        }
+    </div>
+</div>
