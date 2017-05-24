@@ -1,0 +1,131 @@
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\Thermotraq.exe.config
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\Thermotraq.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\Thermotraq.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\RFID.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.xml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.xml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Resources\Icons.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AccentStyleWindow.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\MainWindow.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AboutPage.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AccentStyleWindow.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AwesomePage.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\Configure.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\MainPage.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\Read.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\SettingsPage.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\UserPage.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\App.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq_Content.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq_MarkupCompile.cache
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq_MarkupCompile.lref
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\App.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\MainWindow.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AboutPage.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\AwesomePage.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\Configure.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\MainPage.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\Read.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\SettingsPage.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Views\UserPage.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.g.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.Properties.Resources.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.csproj.GenerateResource.Cache
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomAccent1.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomAccent2.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomTheme.baml
+C:\Users\joshu\Documents\Visual Studio 2015\Thermotraq\Thermotraq\obj\Debug\Thermotraq.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\BitBucket\ThermoTraqMobile\Thermotraq\Thermotraq\bin\Debug\Thermotraq.exe.config
+C:\Users\joshu\Documents\BitBucket\ThermoTraqMobile\Thermotraq\Thermotraq\obj\Debug\Thermotraq.exe
+C:\Users\joshu\Documents\BitBucket\ThermoTraqMobile\Thermotraq\Thermotraq\obj\Debug\Thermotraq.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\Thermotraq.exe.config
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.exe
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\Thermotraq.exe
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\Thermotraq.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\RFID.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.xml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.xml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomAccent1.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomAccent2.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\CustomAccents\CustomTheme.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Resources\Icons.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AccentStyleWindow.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\MainWindow.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AboutPage.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AccentStyleWindow.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AwesomePage.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\Configure.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\MainPage.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\Read.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\SettingsPage.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\UserPage.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\App.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq_Content.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq_MarkupCompile.cache
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq_MarkupCompile.lref
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\App.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\MainWindow.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AboutPage.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\AwesomePage.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\Configure.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\MainPage.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\Read.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\SettingsPage.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Views\UserPage.baml
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.g.resources
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.Properties.Resources.resources
+C:\Users\joshu\Documents\GitHub\CRMSTUFF\Thermotraq\Thermotraq\obj\Debug\Thermotraq.csproj.GenerateResource.Cache
